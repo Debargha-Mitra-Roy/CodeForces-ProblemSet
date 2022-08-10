@@ -21,4 +21,4 @@ You can contibute this Repository but **you have to follow some guidelines** giv
 
 After all, Thanks to <a href = "https://codeforces.com/profile/MikeMirzayanov">***MikeMirzayanov***</a> for great <a href = "https://codeforces.com/">**Codeforces**</a> and <a href = "https://polygon.codeforces.com/">**Polygon**</a> platforms.
 
-Made with ❤️ & ☕ <a href = "https://codeforces.com/profile/Debargha-Mitra-Roy">***Debargha Mitra Roy***</a>
+Made with ❤️ & ☕ by <a href = "https://codeforces.com/profile/Debargha-Mitra-Roy">***Debargha Mitra Roy***</a>
